@@ -79,9 +79,21 @@ Ask with: **Buchstabieren Sie, bitte** = Spell it, please.
 A "ah" · B "beh" · C "tseh" · D "deh" · E "eh" · F "eff" · G "geh" · H "hah" ·
 I "ee" · J "yot" · K "kah" · L "ell" · M "em" · N "en" · O "oh" · P "peh" ·
 Q "koo" · R "err" · S "ess" · T "teh" · U "oo" · V "fau" · W "veh" · X "iks" ·
-Y "üpsilon" · Z "tsett" · ß "ess-tsett"
+Y "üpsilon" · Z "tsett"
 
-So: **VW** = "fau-veh", **BMW** = "beh-em-veh".
+The umlauts and ß have their own names — say the letter's sound, long:
+
+| Letter | Name | Also called |
+|---|---|---|
+| **ä** | "eh" (the long *ä* sound, as in *care*) | **A-Umlaut** |
+| **ö** | "öh" ("eh" with rounded lips) | **O-Umlaut** |
+| **ü** | "üh" ("ee" with pursed lips) | **U-Umlaut** |
+| **ß** | "ess-tsett" | **scharfes S** (sharp s) |
+
+If the umlaut name isn't understood, fall back to the *A-Umlaut* form — it is
+never ambiguous. **ß** can also be spelled out as "doppel-s" (double s).
+
+So: **VW** = "fau-veh", **BMW** = "beh-em-veh", **Müller** = "em-üh-ell-ell-eh-err".
 
 ---
 
